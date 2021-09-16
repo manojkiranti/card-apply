@@ -1,0 +1,9 @@
+node_modules
+.idea
+.vscode/*
+Learn.md
+keys
+config/dev.js
+foundation/README.md
+/admin
+admin
